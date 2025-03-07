@@ -21,5 +21,5 @@ This project analyzes the `airquality` standard data set in R, exploring relatio
 - R
 - Installed packages: ggplot2 and dplyr
 
-##Observations:
+## Observations:
 The month of June (06) has the less quantities of data. This could be caused by a common vacation month in the place where the data was gather, or by a maintenance of the equipement that collect the data.
